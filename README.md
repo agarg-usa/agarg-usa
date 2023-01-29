@@ -1,4 +1,6 @@
-# Hi there, I'm Aryan!👋
+# Hi there, I'm Aryan👋
+
+I am currently a student at Vanderbilt University student Computer Science, Mathematics, and Business 
 
 ## 🔭 I’m currently working on 
 
