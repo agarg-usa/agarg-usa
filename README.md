@@ -4,7 +4,7 @@
 
 I am an Engineering Manager @ Change++. Developing a [Social Media Communications platform](https://github.com/ChangePlusPlusVandy/ForPetesSakeCancerRespite) for the For Pete's Sake Cancer Respite Organization
 
-I am working with [David Hyde](https://dabh.io/) on Machine Learning research and its use in discovering new Quantum Computing Algorithims
+I am working with [David Hyde](https://dabh.io/) on Machine Learning research and its use in discovering new Quantum Computing Algorithms
 
 CTF Competitor with the [squ1rrel](https://squ1rrel.dev/) team at Vanderbilt
 
