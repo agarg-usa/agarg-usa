@@ -35,4 +35,4 @@ I am also an avid Runner, Swimmer, and Biker
 
 Currently trying to: Get better at rock climbing and train for my upcoming marathon
 
-To relax I also like to play Poker, Camp, Read, and learning about Linguistics (Currently, 我在学中文!)
+To relax I also like to play Poker, Camp, Read, and learn about Linguistics (Currently, 我在学中文!)
