@@ -1,6 +1,6 @@
-### Hi there, I'm Aryan!👋
+# Hi there, I'm Aryan!👋
 
-- 🔭 I’m currently working on ... 
+## 🔭 I’m currently working on 
 
 I am an Engineering Manager @ Change++. Developing a [Social Media Communications platform](https://github.com/ChangePlusPlusVandy/ForPetesSakeCancerRespite) for the For Pete's Sake Cancer Respite Organization
 
@@ -8,7 +8,7 @@ I am working with [David Hyde](https://dabh.io/) on Machine Learning research an
 
 CTF Competitor with the [squ1rrel](https://squ1rrel.dev/) team at Vanderbilt
 
-- 🌱 I’m currently learning ...
+## 🌱 I’m currently learning 
 
 Machine Learning / Deep Learning
 
@@ -18,7 +18,8 @@ Mathematical Statistics / Probability
 
 Cryptography / Number Theory and Reversing tools like GDB and IDA
 
-- ⚡ Skills: ...
+
+## ⚡ Skills
 
 Languages: Java, Javascript, React.js, Node.js, HTML/CSS, Python, C/C++, x86, PHP
 
@@ -26,9 +27,9 @@ Technologies: MongoDB, SQL, AWS, GCP, Linux, Docker, RabbitMQ, Redis
 
 Domains: ML, Cybersecurity, Competitive Programming, Web Development
 
-- 💬 Ask me about ...
+## 💬 Ask me about 
 
-Check out my [Photography!](https://www.flickr.com/photos/186385391@N03/)
+Check out my [Photography](https://www.flickr.com/photos/186385391@N03/)
 
 I am also an avid Runner, Swimmer, and Biker
 
